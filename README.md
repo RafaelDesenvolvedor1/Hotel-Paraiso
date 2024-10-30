@@ -12,5 +12,5 @@
   <strong>Link do canal Node Studios Treinamentos:</strong> https://www.youtube.com/@nodestudiotreinamentos
 </p>
 <p>
-  <strong>Link da playlist com todas os videos referentes ao projeto:</strong> [https://www.youtube.com/@nodestudiotreinamentos](https://youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4&si=J55mUCS_wQ0O7O_A)
+  <strong>Link da playlist com todas os videos referentes ao projeto:</strong> https://www.youtube.com/@nodestudiotreinamentos(https://youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4&si=J55mUCS_wQ0O7O_A)
 </p>
